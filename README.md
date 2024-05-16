@@ -6,6 +6,18 @@
 
 ![image](https://user-images.githubusercontent.com/35757455/192554530-800b9890-789e-475d-b656-e399c91f1ba2.png)
 
+### Midi
+# midiKeyboard
+This project needs to rely on gdipClock
+
+![image](https://github.com/chunmingwang/MidiKeyboard/assets/35757455/f82022f6-43b1-4e8d-b5bb-dfa7b9685cac)
+
+# midiPlayer
+This project needs to rely on MDINotepad
+
+![image](https://github.com/chunmingwang/MidiKeyboard/assets/35757455/cbeedc84-0f71-43ef-86e8-9185e01458c9)
+
+
 ### Hi there 👋
 
 <!--
