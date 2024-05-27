@@ -2,9 +2,9 @@
 
 ## <a href="https://github.com/chunmingwang/gdipClock">gdipClock</a>
 
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/c5a0e146-0ffb-4e72-bf65-0a4012a058e2)
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/f8a5eb23-8ebe-419f-9326-5a5d2800b454)
-![image](https://github.com/chunmingwang/gdipClock/assets/35757455/5b732cc8-f720-4e3a-b3bc-48142fe580f4)
+![image](https://github.com/chunmingwang/chunmingwang/assets/35757455/bebb6890-931c-4215-a9ef-194029ba2163)
+![image](https://github.com/chunmingwang/chunmingwang/assets/35757455/8f5e1a44-01e8-4443-8ad0-36c1f8b7c5cc)
+![image](https://github.com/chunmingwang/chunmingwang/assets/35757455/fcbcdf80-2593-432f-a63a-3c7bb73df946)
 
 ## <a href="https://github.com/chunmingwang/MediaPlayer">MediaPlayer</a>
 
