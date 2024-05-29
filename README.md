@@ -10,11 +10,11 @@
 
 ### Network radio
 
-![image](https://github.com/chunmingwang/MediaPlayer/assets/35757455/3e016b72-448d-43cc-a92e-8d75bde13795)
+![image](https://github.com/chunmingwang/chunmingwang/assets/35757455/fcdd5477-ee87-4276-98b3-1c76406f2986)
 
 ### Local movie
 
-![image](https://github.com/chunmingwang/MediaPlayer/assets/35757455/960e9e83-7ddc-4794-8494-e2189343b24d)
+![image](https://github.com/chunmingwang/chunmingwang/assets/35757455/0e51295c-9fd8-4e0b-99c2-a110bca38e8f)
 
 ## <a href="https://github.com/chunmingwang/Midi">Midi</a>
 ### midiKeyboard
@@ -31,7 +31,7 @@
 
 ## <a href="https://github.com/chunmingwang/Bass">Base</a>
 
-![image](https://github.com/chunmingwang/Bass/assets/35757455/005e490c-2412-4a6d-8b33-4f636a61b916)
+![image](https://github.com/chunmingwang/chunmingwang/assets/35757455/32db458a-b096-4f5a-9c2b-baf0db1e3fbd)
 
 ## <a href="https://github.com/chunmingwang/Sapi">Sapi</a>
 
