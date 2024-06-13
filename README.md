@@ -1,4 +1,7 @@
+![Logo](https://github.com/chunmingwang/chunmingwang/assets/35757455/73f00bc8-3168-4274-b3d7-13a634876ad7)
+
 # <a href="https://github.com/XusinboyBekchanov/VisualFBEditor">VisualFBEditor</a> Examples
+
 <!--
 ## <a href="https://github.com/chunmingwang/gdipClock">gdipClock</a>
 
