@@ -1,8 +1,9 @@
-![Logo](https://github.com/chunmingwang/chunmingwang/assets/35757455/73f00bc8-3168-4274-b3d7-13a634876ad7)
 
-# <a href="https://github.com/XusinboyBekchanov/VisualFBEditor">VisualFBEditor</a> Examples
+# Examples for <a href="https://github.com/XusinboyBekchanov/VisualFBEditor">VisualFBEditor</a>
 
 <!--
+![Logo](https://github.com/chunmingwang/chunmingwang/assets/35757455/73f00bc8-3168-4274-b3d7-13a634876ad7)
+
 ## <a href="https://github.com/chunmingwang/gdipClock">gdipClock</a>
 
 ![image](https://github.com/chunmingwang/chunmingwang/assets/35757455/bebb6890-931c-4215-a9ef-194029ba2163)
