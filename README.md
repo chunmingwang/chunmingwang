@@ -1,14 +1,11 @@
 
 # Examples for <a href="https://github.com/XusinboyBekchanov/VisualFBEditor">VisualFBEditor</a>
 
-||||
-| --- | --- | --- |
-|Bass|ChineseCalendar|directshow|
-|directsound|Download|DynamicControl|
-|FileBrowser|gdipClock|gdipGoldFish|
-|MDIForm|MDINotepad|MDIScintilla|
-|MDIScintillaControl|MediaPlayer|Midi|
-|MultipleDisplay|NTPClient|PipeProcess|
+|||||||
+|--- |--- |--- |--- |--- |--- |
+|Bass|ChineseCalendar|directshow|directsound|Download|DynamicControl|
+|FileBrowser|gdipClock|gdipGoldFish|MDIForm|MDINotepad|MDIScintilla|
+|MDIScintillaControl|MediaPlayer|Midi|MultipleDisplay|NTPClient|PipeProcess|
 |Radar|Sapi|SerialPort
 
 <!--
