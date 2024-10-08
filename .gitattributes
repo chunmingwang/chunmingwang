@@ -2,3 +2,18 @@
 *.bas linguist-language=FreeBASIC
 *.frm linguist-language=FreeBASIC
 *.inc linguist-language=FreeBASIC
+*.vfp linguist-language=FreeBASIC
+*.vfs linguist-language=FreeBASIC
+
+*.xml linguist-vendored
+*.html linguist-vendored
+*.css linguist-vendored
+*.rc linguist-vendored
+*.png linguist-vendored
+*.chm linguist-vendored
+*.txt linguist-vendored
+*.h linguist-vendored
+*.dll linguist-vendored
+*.bat linguist-vendored
+*.def linguist-vendored
+*.lib linguist-vendored
