@@ -7,6 +7,7 @@
 |<a href="https://github.com/chunmingwang/MDIScintillaControl">MDIScintillaControl</a>|<a href="https://github.com/chunmingwang/MediaPlayer">MediaPlayer</a>|<a href="https://github.com/chunmingwang/Midi">Midi</a>|<a href="https://github.com/chunmingwang/MultipleDisplay">MultipleDisplay</a>|<a href="https://github.com/chunmingwang/NtpClient">NTPClient</a>|<a href="https://github.com/chunmingwang/PipeProcess">PipeProcess</a>|
 |<a href="https://github.com/chunmingwang/Radar">Radar</a>|<a href="https://github.com/chunmingwang/Sapi">Sapi</a>|<a href="https://github.com/chunmingwang/SerialPort">SerialPort</a>|<a href="https://github.com/chunmingwang/ScintillaControl">ScintillaControl</a>|||
 
+These open source examples have also been merge into VisualFBEditor's examples.
 <!--
 ![Logo](https://github.com/chunmingwang/chunmingwang/assets/35757455/73f00bc8-3168-4274-b3d7-13a634876ad7)
 
