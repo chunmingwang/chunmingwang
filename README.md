@@ -5,7 +5,7 @@
 | :---: | :---: | :---: | :---: | :---: | :---: |
 |<a href="https://github.com/chunmingwang/FileBrowser">FileBrowser</a>|<a href="https://github.com/chunmingwang/gdipClock">gdipClock</a>|<a href="https://github.com/chunmingwang/gdipGoldFish">gdipGoldFish</a>|<a href="https://github.com/chunmingwang/MDIForm">MDIForm</a>|<a href="https://github.com/chunmingwang/MDINotepad">MDINotepad</a>|<a href="https://github.com/chunmingwang/MDIScintilla">MDIScintilla</a>|
 |<a href="https://github.com/chunmingwang/MDIScintillaControl">MDIScintillaControl</a>|<a href="https://github.com/chunmingwang/MediaPlayer">MediaPlayer</a>|<a href="https://github.com/chunmingwang/Midi">Midi</a>|<a href="https://github.com/chunmingwang/MultipleDisplay">MultipleDisplay</a>|<a href="https://github.com/chunmingwang/NtpClient">NTPClient</a>|<a href="https://github.com/chunmingwang/PipeProcess">PipeProcess</a>|
-|<a href="https://github.com/chunmingwang/Radar">Radar</a>|<a href="https://github.com/chunmingwang/Sapi">Sapi</a>|<a href="https://github.com/chunmingwang/SerialPort">SerialPort</a>|<a href="https://github.com/chunmingwang/ScintillaControl">ScintillaControl</a>|||
+|<a href="https://github.com/chunmingwang/Radar">Radar</a>|<a href="https://github.com/chunmingwang/Sapi">Sapi</a>|<a href="https://github.com/chunmingwang/SerialPort">SerialPort</a>|<a href="https://github.com/chunmingwang/ScintillaControl">ScintillaControl</a>|<a href="https://github.com/chunmingwang/DeviceExplorer">DeviceExplorer</a>|<a href="https://github.com/chunmingwang/USBView">USBView</a>|
 
 These open source examples have also been merge into VisualFBEditor's examples.
 <!--
