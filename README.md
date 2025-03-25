@@ -8,7 +8,7 @@
 |<a href="https://github.com/chunmingwang/PipeProcess">PipeProcess</a>|<a href="https://github.com/chunmingwang/Radar">Radar</a>|<a href="https://github.com/chunmingwang/Sapi">Sapi</a>|<a href="https://github.com/chunmingwang/SerialPort">SerialPort</a>|<a href="https://github.com/chunmingwang/ScintillaControl">ScintillaControl</a>|<a href="https://github.com/chunmingwang/USBView">USBView</a>|
 |<a href="https://github.com/chunmingwang/WMI">WMI</a>| | | | | |
 
-These open source examples have also been merge into VisualFBEditor's examples.
+These open source examples have also been merged into VisualFBEditor's example collection.
 <!--
 ![Logo](https://github.com/chunmingwang/chunmingwang/assets/35757455/73f00bc8-3168-4274-b3d7-13a634876ad7)
 
